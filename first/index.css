@@ -1,0 +1,27 @@
+body {
+    margin: auto;
+    background-color: #a5a5a5;
+    width: 100vw;
+    height: 100vh;
+}
+
+ .h1 {
+    width: 100vw;
+    height: 20vh;
+    background-color: rgb(78, 78, 78);
+    margin: auto;
+}
+
+.h2 {
+    width: 80vw;
+    height: 80vh;
+    background-color: white;
+    margin: auto;
+}
+
+.h3 {
+    width: 80vw;
+    height: 10vh;
+    background-color: black;
+    margin: auto;
+}
